@@ -1,0 +1,17 @@
+body {
+  font-family: "Bangers", cursive;
+  font-size: 25px;
+  color:  #31d2f7;
+  width: 100%;
+  padding-left: 400px;
+  
+ 
+
+}
+
+h1 {
+  align-content: center;
+  padding-left: 80px;
+
+  text-shadow: 2px 1px 0.1px grey
+}
