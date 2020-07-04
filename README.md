@@ -9,3 +9,4 @@ Regras do Jogo
 6 - Caso o jogador leve 5 gols o computador será o ganhador e o jogo vair ser iniciado da fase 1 novamente apresentando uma menssagem de GAME OVER!
 7 - A casa fazer avançada  a velocidade da bola e do adversario serão incrementadas.
 
+Projeto aberto a novos incrementos! 
